@@ -1,6 +1,13 @@
-# Swift Craft Launcher CLI 指令文档
+# Swift Craft Launcher CLI 文档
 
-## 快速概览
+---
+
+## 快速开始
+懒得做，哪个好心人帮忙搞个
+
+---
+
+## 命令概览
 
 ```
 scl <命令组> <子命令> [参数] [选项]
@@ -119,6 +126,9 @@ scl game delete <name>
 
 账号管理（离线/微软）。
 > 微软登录需要指定client id
+```
+export SCL_CLIENT_ID="<your_client_id>"
+```
 
 ### list
 
@@ -256,4 +266,4 @@ scl uninstall scl
 scl shell
 ```
 
-交互模式内可执行常用子命令，输入 `help` 查看列表，`exit/quit` 退出。
+交互模式内可执行子命令，输入 `help` 查看列表，`exit/quit` 退出。
