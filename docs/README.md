@@ -1,5 +1,7 @@
 # Swift Craft Launcher CLI 文档
 
+* [主项目](https://github.com/suhang12332/swift-craft-launcher/)
+
 ---
 
 ## 快速开始
