@@ -6,7 +6,5 @@
 - 便于AI调用
 - 不依赖GUI
 
-[CLI](https://github.com/hjy666-mc/Swift-Craft-Launcher-CLI/)
-[Launcher](https://github.com/suhang12332/swift-craft-launcher/)
-[FAQ](TROUBLESHOOTING.md)
+[Github](https://github.com/hjy666-mc/Swift-Craft-Launcher-CLI/)
 [Get Started](README.md)
