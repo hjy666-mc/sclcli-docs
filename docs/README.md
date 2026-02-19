@@ -5,7 +5,12 @@
 ---
 
 ## 快速开始
-懒得做，哪个好心人帮忙搞个
+- 使用安装脚本
+```
+mkdir -p ~/.local/bin \
+  && curl -L "https://github.com/hjy666-mc/Swift-Craft-Launcher-CLI/releases/latest/download/scl" -o ~/.local/bin/scl \
+  && chmod +x ~/.local/bin/scl
+```
 
 ---
 
