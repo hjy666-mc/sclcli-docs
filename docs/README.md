@@ -274,3 +274,10 @@ scl shell
 ```
 
 交互模式内可执行子命令，输入 `help` 查看列表，`exit/quit` 退出。
+
+---
+
+## AI调用
+
+请使用可以调用终端的AI工具调用
+并使用CLI的[提示词](https://raw.githubusercontent.com/hjy666-mc/Swift-Craft-Launcher-CLI/refs/heads/main/prompt.txt)
