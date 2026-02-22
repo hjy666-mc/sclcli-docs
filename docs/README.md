@@ -284,3 +284,8 @@ scl shell
 
 请使用可以调用终端的AI工具调用
 并使用CLI的[提示词](https://raw.githubusercontent.com/hjy666-mc/Swift-Craft-Launcher-CLI/refs/heads/main/prompt.txt)
+
+---
+
+## 声明
+本项目有AI辅助，如果使用AI辅助编程引起某些人不适，请直接屏蔽本项目
